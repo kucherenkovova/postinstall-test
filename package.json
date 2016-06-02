@@ -1,0 +1,19 @@
+{
+  "name": "postinstall",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "createFile.js",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kucherenkovova/postinstall-test.git"
+  },
+  "author": "kucherenkovova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kucherenkovova/postinstall-test/issues"
+  },
+  "homepage": "https://github.com/kucherenkovova/postinstall-test#readme"
+}
