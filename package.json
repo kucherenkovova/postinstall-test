@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "postinstall": "createFile.js"
+    "postinstall": "node createFile.js"
   },
   "repository": {
     "type": "git",
